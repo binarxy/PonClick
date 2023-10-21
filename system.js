@@ -16,7 +16,7 @@ window.onload = ()=>{
             score++
             countext.innerHTML = score
             
-        },450)
+        },2000)
 
         pon_char.src = "unpop.png"
         
