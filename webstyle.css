@@ -17,7 +17,7 @@ body {
 
 .main-container img {
     width: 100%;
-    max-width: 400px; /* Adjust the max-width as needed */
+    max-width: 550px; /* Adjust the max-width as needed */
     height: auto;
     outline: none;
 }
